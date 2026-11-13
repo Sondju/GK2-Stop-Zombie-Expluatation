@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="StopZombieExpluatation\StopZombieExpluatation.csproj" />
+  <Project Path="StopZombieExpluatationFramework\StopZombieExpluatationFramework.csproj">
+    <BuildDependency Project="StopZombieExpluatation\StopZombieExpluatation.csproj" />
+  </Project>
+</Solution>
